@@ -1,5 +1,5 @@
 
-### Olá! Eu sou o Luan Marchiori ✔️
+### Hi! I'am Luan Marchiori ✔️
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_marchiori/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-gabriel-alves/)
@@ -14,4 +14,6 @@
 <img align="center" alt="python" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </div><br/>
 
-Sou estudante da PUCPR com foco na área de desenvolvimento de software, com foco em backend. Estou cursando o 2o período do curso de Analise e Desenvolvimento de Sistemas.
+Aspiring Software Developer (Backend Focused)
+
+I'm a Software Development student at PUCPR, currently in my second semester of the Systems Analysis and Development program. My primary focus is on backend development, where I'm eager to build robust and efficient systems.
