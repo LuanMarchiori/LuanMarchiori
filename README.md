@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.instagram.com/marchior1_/">
+  <a href="https://www.instagram.com/luan.marchiori/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://www.linkedin.com/in/luan-gabriel-alves/">
